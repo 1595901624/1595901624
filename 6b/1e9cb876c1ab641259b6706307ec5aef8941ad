@@ -1,0 +1,49 @@
+README.md
+  de8126cb63eaff50 1,3,5,7-16,18-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.0",
+  "base_commit_sha": "6b1e9cb876c1ab641259b6706307ec5aef8941ad",
+  "prompts": {
+    "de8126cb63eaff50": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1963c-7474-7931-9062-56725e95357a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "luhaoyu <haoyu3@163.com>",
+      "messages": [],
+      "total_additions": 58,
+      "total_deletions": 40,
+      "accepted_lines": 33,
+      "overriden_lines": 0
+    }
+  },
+  "commit_stats": {
+    "git_diff_added_lines": 32,
+    "git_diff_deleted_lines": 14,
+    "ai_additions": 32,
+    "ai_accepted": 32,
+    "BYMC": 0,
+    "mixed_additions": 0,
+    "BYAC": 32,
+    "BYRC": 0,
+    "per_file": {
+      "README.md": {
+        "BYMC": [],
+        "BYAC": [
+          "1",
+          "3",
+          "5",
+          "7-16",
+          "18-36"
+        ],
+        "BYRC": []
+      }
+    }
+  },
+  "ipa_account": "luhaoyu",
+  "commit_timestamp": 1793523541,
+  "requirement_id": ""
+}
